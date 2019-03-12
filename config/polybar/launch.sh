@@ -1,0 +1,1 @@
+/home/cup/.config/polybar/launch.sh
