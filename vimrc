@@ -23,3 +23,6 @@ let g:airline_theme='dark'
 
 " fzf
 set rtp+=/usr/local/opt/fzf
+
+nmap <C-f> :GFiles<CR>
+nmap <C-F> :Files<CR>
