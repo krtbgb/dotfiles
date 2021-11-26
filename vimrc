@@ -1,5 +1,10 @@
 filetype plugin indent on
 
+au filetype go inoremap <buffer> . .<C-x><C-o>
+set completeopt-=preview
+
+:set hidden
+
 " colors
 syntax enable
 set t_Co=256
