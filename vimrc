@@ -1,6 +1,5 @@
 filetype plugin indent on
 
-au filetype go inoremap <buffer> . .<C-x><C-o>
 set completeopt-=preview
 
 :set hidden
