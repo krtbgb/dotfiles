@@ -30,6 +30,6 @@ let g:airline_theme='dark'
 " fzf
 set rtp+=~/.fzf
 
-'' map fzf
+" map fzf
 nmap <C-p> :GFiles<CR>
 nmap <C-P> :Files<CR>
